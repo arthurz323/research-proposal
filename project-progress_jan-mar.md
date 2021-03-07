@@ -3,9 +3,12 @@
 ## Cotical convergence of visuomotor information streams in secondary motor cortex
 
 ---
-Although key brain areas involved in motor and visual control have been identified, how visual information is integrated into motor systems remains largely unknown. The secondary motor cortex has recently been identified as a convergence point for projections from posterior parietal cortex (PPC) – required during visually-cued movement (Hwang et al 2019) – and motor thalamus. To investigate the role that this area plays in visuomotor control the student will combine circuit mapping techniques with inactivation experiments in mice rained to perform a novel visually-guided reaching task.
----
+Orignal abstract:
 
+Although key brain areas involved in motor and visual control have been identified, how visual information is integrated into motor systems remains largely unknown. The secondary motor cortex has recently been identified as a convergence point for projections from posterior parietal cortex (PPC) – required during visually-cued movement (Hwang et al 2019) – and motor thalamus. To investigate the role that this area plays in visuomotor control the student will combine circuit mapping techniques with inactivation experiments in mice rained to perform a novel visually-guided reaching task.
+
+
+---
 ### Objective:
 
 investigate how visual information is integrated into motor systems
