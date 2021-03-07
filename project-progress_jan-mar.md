@@ -11,17 +11,19 @@ Although key brain areas involved in motor and visual control have been identifi
 ---
 ### Objective:
 
-investigate how visual information is integrated into motor systems
+    investigate how visual information is integrated into motor systems
+
 
 ### Premise:
 
-The secondary motor cortex (M2) has recently been identified as a convergence point for projections from posterior parietal cortex (PPC) and motor thalamus (required during visually-cued movement (Hwang et al 2019));
+- The secondary motor cortex (M2) has recently been identified as a convergence point for projections from posterior parietal cortex (PPC) and motor thalamus (required during visually-cued movement (Hwang et al 2019));
 
-M2, together with anterior cingulate cortex (ACC), has also been found to have projections to primary visual cortex (V1) that provide movement-related visual predictions (Leinweber, 2017).
+- M2, together with anterior cingulate cortex (ACC), has also been found to have projections to primary visual cortex (V1) that provide movement-related visual predictions (Leinweber, 2017).
+
 
 ### Behaviour:
 
-visually-cued/guided movement
+visually-cued/guided reaching
 
 
 ### Experimental Techniques
