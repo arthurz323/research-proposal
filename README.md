@@ -1,6 +1,8 @@
 # An electronic copy should be submitted via LEARN by *4:00pm* on Thursday 1 st April 2021.
 
-## The proposal should be presented with the following sections, and *word limits strictly adhered* to:
+## The proposal should be based on findings from your first project, extend to a longer three-year project.
+
+### Proposal should presented with the following sections, and *word limits strictly adhered* to:
 
 - **Lay abstract, *max. 200* words**
     
