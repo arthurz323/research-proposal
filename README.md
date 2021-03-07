@@ -2,13 +2,13 @@
 
 ## The proposal should be presented with the following sections, and *word limits strictly adhered* to:
 
-### Lay abstract, **max. 200** words
+__Lay abstract, *max. 200* words__
     
-### Scientific abstract, **max. 200** words
+__Scientific abstract, *max. 200* words__
     
-### Introduction and Background, **max. 700 words** (not including references, tables or figure legends)
+__Introduction and Background, *max. 700 words* (not including references, tables or figure legends)__
     
-### Proposed Research (Objectives and Research Plan), **max. 1400 words** (not including references, tables or figure legends):
+__Proposed Research (Objectives and Research Plan), *max. 1400 words* (not including references, tables or figure legends):__
 
 - The Objectives and the Research plan form the main part of the assignment;
 
