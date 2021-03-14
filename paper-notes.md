@@ -38,7 +38,7 @@
     
 ➡️ identify flow of bias by tracing:
 
-- unilateral anterograde AAV-CAG-tdTomato in PPC, ➡️ PPC projects to: [1]
+- unilateral anterograde AAV-CAG-tdTomato in PPC, ➡️ PPC projects to: footnote: lalalalalala
     - pM2
     - STR
     - S1 (primary somatosensory cortex)
@@ -48,6 +48,7 @@
     - superior colliculus
     
 
+[^1]: projections are largely **ipsilateral** to the injection site.
 
 **PPC Neurons Projecting to STR and pM2 Receive Distinct Long-Range Inputs**
 
@@ -72,5 +73,4 @@
     - PPC-pM2 soma
 
 
-[1]: projections are largely **ipsilateral** to the injection site.
 
