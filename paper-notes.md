@@ -38,7 +38,7 @@
     
 ➡️ identify flow of bias by tracing:
 
-- unilateral anterograde AAV-CAG-tdTomato in PPC, ➡️ PPC projects [^1] to:
+- unilateral anterograde AAV-CAG-tdTomato in PPC, ➡️ PPC projects to: [^1]
     - pM2
     - STR
     - S1 (primary somatosensory cortex)
