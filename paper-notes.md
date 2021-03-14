@@ -10,7 +10,7 @@
 
 ## Parallel Circuits
 
-**PPC-STR (dorsal striatum)**
+### PPC-STR (dorsal striatum)
 
 - receives stronger input from association areas (**??**)
     
@@ -19,7 +19,7 @@
 
 - **select action**
 
-**PPC-pM2 (posterior secondary motor cortex)**
+### PPC-pM2 (posterior secondary motor cortex)
 
 - receives stronger sensorimotor input:
     - inhibit PPC-pM2 neuron alters movement kinematics
@@ -30,7 +30,7 @@
 
 ## Techniques & Results
 
-**PPC-STR & PPC-pM2 Represent Largely Distinct Subpopulations**
+### PPC-STR & PPC-pM2 Represent Largely Distinct Subpopulations
 
 - inhibit PPC-STR soma during ITI (inter-trial interval), but not choice period, *weakens* history-denpendent bias of the following trial
     
@@ -38,7 +38,7 @@
     
 ➡️ need to identify flow of bias
 
-Projection tracing:
+**Projection tracing:**
 
 - unilateral anterograde AAV-CAG-tdTomato in PPC, ➡️ PPC projects <sup>1</sup> to:
     - **pM2**
@@ -58,7 +58,7 @@ Projection tracing:
 > <sup>2</sup> The contralateral PPC contained only 2% ± 1% of all retrogradely labeled PPC neurons from STR injections & 4% ± 1% from pM2 injections, thus only *ipsilateral* is analysed.
 
 
-Identify spatial distribution of PPC-STR & PPC-pM2 neurons:
+**Identify spatial distribution of PPC-STR & PPC-pM2 neurons:**
 
 - PPC-STR is more than PPC-pM2
 
@@ -67,17 +67,16 @@ Identify spatial distribution of PPC-STR & PPC-pM2 neurons:
 - <10% PPC neurons are double-labelled ➡️ PPC-STR & PPC-pM2 represent largely distinct PPC neuron subpoplations
 
 
+### PPC Neurons Projecting to STR and pM2 Receive Distinct Long-Range Inputs
 
 
 
 
-**PPC Neurons Projecting to STR and pM2 Receive Distinct Long-Range Inputs**
+### History-Dependent Bias Is Preferentially Encoded by PPC-STR Neurons
 
 
-**History-Dependent Bias Is Preferentially Encoded by PPC-STR Neurons**
 
-
-**PPC-STR Pathway Is Required for History Bias**
+### PPC-STR Pathway Is Required for History Bias
 
 
 
