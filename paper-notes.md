@@ -10,33 +10,42 @@
 
 ## Parallel Circuits
 
-- PPC-STR (dorsal striatum)
+**PPC-STR (dorsal striatum)**
 
-    - receives stronger input from association areas (**??**)
+- receives stronger input from association areas (**??**)
     
-    - encodes *history-denpendent choice bias*:
-        - inhibit PPC-STR neuron decreases history-denpendent choice bias
+- encodes *history-denpendent choice bias*:
+    - inhibit PPC-STR neuron decreases history-denpendent choice bias
 
-    - **select action**
+- **select action**
 
-- PPC-pM2 (posterior secondary motor cortex)
+**PPC-pM2 (posterior secondary motor cortex)**
 
-    - receives stronger sensorimotor input:
-        - inhibit PPC-pM2 neuron alters movement kinematics
+- receives stronger sensorimotor input:
+    - inhibit PPC-pM2 neuron alters movement kinematics
 
-    - **control movement**
+- **control movement**
 ---
 
 
 ## Techniques & Results
 
-- PPC-STR & PPC-pM2 Represent Largely Distinct Subpopulations
+**PPC-STR & PPC-pM2 Represent Largely Distinct Subpopulations**
 
-    - inhibit PPC-STR soma during ITI (inter-trial interval), but not choice period, *weakens* history-denpendent bias of the following trial
+- inhibit PPC-STR soma during ITI (inter-trial interval), but not choice period, *weakens* history-denpendent bias of the following trial
     
-        ➡️ PPC encodes history-dependent bias during **ITI**, and used by downstream STR during choice
+    ➡️ PPC encodes history-dependent bias during **ITI**, and used by downstream STR during choice
     
-    - 
+- 
+
+**PPC Neurons Projecting to STR and pM2 Receive Distinct Long-Range Inputs**
+
+
+**History-Dependent Bias Is Preferentially Encoded by PPC-STR Neurons**
+
+
+**PPC-STR Pathway Is Required for History Bias**
+
 ---
 
 
