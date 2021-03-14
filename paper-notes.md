@@ -47,7 +47,6 @@
     - visual cortex
     - superior colliculus
     
-[^1]: projections are largely **ipsilateral** to the injection site.
 
 
 **PPC Neurons Projecting to STR and pM2 Receive Distinct Long-Range Inputs**
@@ -73,4 +72,5 @@
     - PPC-pM2 soma
 
 
+[^1]: projections are largely **ipsilateral** to the injection site.
 
