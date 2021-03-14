@@ -90,6 +90,7 @@ PPC-STR & PPC-pM2 form parallel subsystems with distinct functions  ➡️  does
 - decision making task: press the joystick in the same direction as the visual stimulus (forward or downward drifting gratings) following the auditory cue
 
 - logistic regression model: the probability of choice on a given trial is a function of the current trial stimulus, choice-outcome history, and a constant bias.
+
 ![equation 1] (https://github.com/arthurz323/research-proposal/blob/master/pics/equation1.png)
 
 
