@@ -5,7 +5,7 @@
 ## Question
 
 - PPC (posterior parietal cortex) contributes to decision making & movement control, but which input & output pathways support these functions?
----
+
 
 
 ## Parallel Circuits
@@ -25,7 +25,7 @@
     - inhibit PPC-pM2 neuron alters movement kinematics
 
 - **control movement**
----
+
 
 
 ## Techniques & Results
@@ -38,7 +38,7 @@
     
 ➡️ identify flow of bias by tracing:
 
-- unilateral anterograde AAV-CAG-tdTomato in PPC, ➡️ PPC projects <sup>1</sup> to. [1]
+- unilateral anterograde AAV-CAG-tdTomato in PPC, ➡️ PPC projects <sup>1</sup> to:
     - pM2
     - STR
     - S1 (primary somatosensory cortex)
@@ -46,9 +46,9 @@
     - auditory cortex
     - visual cortex
     - superior colliculus
-    
 ---
 <sup>1</sup> projections are largely **ipsilateral** to the injection site.
+
 
 **PPC Neurons Projecting to STR and pM2 Receive Distinct Long-Range Inputs**
 
@@ -58,7 +58,7 @@
 
 **PPC-STR Pathway Is Required for History Bias**
 
----
+
 
 
 
@@ -73,11 +73,4 @@
     - PPC-pM2 soma
 
 
- [1]: "test-what".
- 
 
-graph TD
-    A[Hard] -->|Text| B(Round)
-    B --> C{Decision}
-    C -->|One| D[Result 1]
-    C -->|Two| E[Result 2]
