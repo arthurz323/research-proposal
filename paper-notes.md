@@ -91,8 +91,7 @@ PPC-STR & PPC-pM2 form parallel subsystems with distinct functions  ➡️  does
 
 - logistic regression model: the probability of choice on a given trial is a function of the current trial stimulus, choice-outcome history, and a constant bias.
 
-![equation 1] (https://github.com/arthurz323/research-proposal/blob/master/pics/equation1.png)
-
+![equation 1](https://github.com/arthurz323/research-proposal/blob/master/pics/equation1.png)
 
 ### PPC-STR Pathway Is Required for History Bias
 
