@@ -1,15 +1,13 @@
 # Hwang et al., 2019 "corticostriatal flow of action selection bias"
-
+---
 
 ## Question
 
 - PPC (posterior parietal cortex) contributes to decision making & movement control, but which input & output pathways support these functions?
+---
 
 
-
-## Methods
-
-### Parallel Circuits
+## Parallel Circuits
 
 - PPC-STR (dorsal striatum)
 
@@ -26,8 +24,21 @@
         - inhibit PPC-pM2 neuron alters movement kinematics
 
     - **control movement**
+---
 
-### Techniques
+
+## Techniques & Results
+
+- PPC-STR & PPC-pM2 Represent Largely Distinct Subpopulations
+
+    - inhibit PPC-STR soma during ITI (inter-trial interval), but not choice period, *weakens* history-denpendent bias of the following trial
+    
+        > PPC encodes history-dependent bias during **ITI**, and used by downstream STR during choice
+    
+    - 
+---
+
+
 
 - retrograde labeling for circuit mapping
 
@@ -41,12 +52,3 @@
 
 
 
-## Results in detail
-
-- PPC-STR & PPC-pM2 Represent Largely Distinct Subpopulations
-
-    - inhibit PPC-STR soma during ITI (inter-trial interval), but not choice period, *weakens* history-denpendent bias of the following trial
-    
-        > PPC encodes history-dependent bias during **ITI**, and used by downstream STR during choice
-    
-    - 
