@@ -34,7 +34,7 @@
 
     - inhibit PPC-STR soma during ITI (inter-trial interval), but not choice period, *weakens* history-denpendent bias of the following trial
     
-        --> PPC encodes history-dependent bias during **ITI**, and used by downstream STR during choice
+        ➡️ PPC encodes history-dependent bias during **ITI**, and used by downstream STR during choice
     
     - 
 ---
