@@ -34,13 +34,13 @@
 
 - inhibit PPC-STR soma during ITI (inter-trial interval), but not choice period, *weakens* history-denpendent bias of the following trial
     
-    ➡️ PPC encodes history-dependent bias during **ITI**, and used by downstream STR during choice
+    ➡️  PPC encodes history-dependent bias during **ITI**, and used by downstream STR during choice
     
-➡️ need to identify flow of bias
+➡️  need to identify flow of bias
 
 **Projection tracing:**
 
-- unilateral anterograde AAV-CAG-tdTomato in PPC, ➡️ PPC projects <sup>1</sup> to:
+- unilateral anterograde AAV-CAG-tdTomato in PPC,  ➡️  PPC projects <sup>1</sup> to:
     - **pM2**
     - **STR**
     - S1 (primary somatosensory cortex)
@@ -64,16 +64,33 @@
 
 - PPC-STR & PPC-pM2 are largely overlapped *spatially*, yet *PPC-pM2 is more superficial, lateral, and posterior*
 
-- <10% PPC neurons are double-labelled ➡️ PPC-STR & PPC-pM2 represent largely distinct PPC neuron subpoplations
+- only less than 10% PPC neurons are double-labelled  ➡️  PPC-STR & PPC-pM2 represent largely distinct PPC neuron subpoplations
 
 
-### PPC Neurons Projecting to STR and pM2 Receive Distinct Long-Range Inputs
+### PPC-STR & PPC-pM2 Neurons Receive Distinct Long-Range Inputs
+
+- CAV-Cre in STR/pM2, & a mixture of helper viruses in unilateral PPC  ➡️  restrict viruses expression to PPC-STR/pM2 starter neurons
+
+- three weeks later, inject EnvA-RVDG-eGFP in PPC  ➡️  only infect starter neurons; trans-complementation allows it to trans-synaptically infect pre-synaptic neurons
+
+- inputs to PPC are mainly *ipsilateral*<sup>3</sup>, PPC-STR & PPC-pM2 have sig. different input from:
+    - M1 (PPC-pM2 > PPC-STR)
+    - upper-body S1 (PPC-pM2 > PPC-STR)
+    - cingulate areas (PPC-STR > PPC-pM2)
+    
+> <sup>3</sup> visual cortex gives **biggest** input chunk (>20%) to both PPC-STR & PPC-pM2
+
+➡️  PPC-pM2 neurons receive more sensorimotor inputs, PPC-STR neurons receives more association inputs.
 
 
+### PPC-STR Neurons encode History-Dependent Action Bias
 
+PPC-STR & PPC-pM2 form parallel subsystems with distinct functions  ➡️  does any of these subsystem deal with history-dependent action bias?
 
-### History-Dependent Bias Is Preferentially Encoded by PPC-STR Neurons
+- decision making task: press the joystick in the same direction as the visual stimulus (forward or downward drifting gratings) following the auditory cue
 
+- logistic regression model: the probability of choice on a given trial is a function of the current trial stimulus, choice-outcome history, and a constant bias.
+![equation 1] (https://github.com/arthurz323/research-proposal/blob/master/pics/equation1.png)
 
 
 ### PPC-STR Pathway Is Required for History Bias
