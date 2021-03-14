@@ -1,0 +1,42 @@
+# Title: 
+
+
+## Lay Summary (max. 200 words)
+
+
+
+## Scientific Summary (max. 200 words)
+
+
+
+
+## Introduction & Background (max. 700 words)
+
+
+
+
+## Proposed Research (main part; max. 1400 words)
+
+-->-->
+### Objectives
+
+- why this is important
+
+- hypothesis
+
+
+
+### Research Plan
+
+- timescales (Gantt chart)
+
+    - **coincidence detector**: express ChR2 to PPC-M2 projections -> stimulate these axons in M2 during behaviour & npx recording -> electrical signal will back-propages to somas in PPC:
+        - light on: AP from PPC-M2 projecting neurons will be cancelled by ChR2 stimulation -> correspond npx channels will loss AP signal
+        - light off: AP from PPC-M2 projecting neurons will successfully reach M2 -> npx picks up AP signal;
+        - compare light on & off conditions -> accurately identify channels in npx that pick up AP signals from PPC-M2 projecting neurons
+        
+    - the same behaviour, expand the current circuit, & use different techniques to acquire info from all levels (e.g., inhibitory opto, meso scope imaging, more npx probes)
+
+- contingency plan
+
+## Reference
