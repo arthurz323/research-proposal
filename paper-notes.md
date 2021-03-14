@@ -48,7 +48,8 @@
     - superior colliculus
 
 > <sup>1</sup> projections are largely *ipsilateral* to the injection site.
-> <sup>2</sup> dorsal STR & pM2 have been repeatedly implicated in stimulus- and history-dependent decision making
+
+> <sup>2</sup> dorsal STR & pM2 have been repeatedly implicated in stimulus- and history-dependent decision making ^2
 
 
 
