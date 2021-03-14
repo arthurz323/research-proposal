@@ -36,7 +36,18 @@
     
     ➡️ PPC encodes history-dependent bias during **ITI**, and used by downstream STR during choice
     
-- 
+➡️ identify flow of bias by tracing:
+
+- unilateral anterograde AAV-CAG-tdTomato in PPC
+    ➡️ PPC projects to:
+    - pM2
+    - STR
+    - S1 (primary somatosensory cortex)
+    - associative thalamus
+    - auditory cortex
+    - visual cortex
+    - superior colliculus
+
 
 **PPC Neurons Projecting to STR and pM2 Receive Distinct Long-Range Inputs**
 
