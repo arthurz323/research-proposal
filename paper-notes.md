@@ -91,12 +91,11 @@ PPC-STR & PPC-pM2 form parallel subsystems with distinct functions  ➡️  does
 
 - full logistic regression model (equation 1): the probability of choice on a given trial is a function of the current trial stimulus, choice-outcome history, and a constant bias.
 
-![equation 1](https://github.com/arthurz323/research-proposal/blob/master/pics/equation1.png)
-
-
     - the probability of choice significant dependent on choice-outcome history in the two-choice joystick task
 
     - estimate the continuously varying history-dependent bias on a trial-by-trial basis, which is a variable internal to the mouse and not directly measurable (equation 3)
+
+![equation 1](https://github.com/arthurz323/research-proposal/blob/master/pics/equation1.png)
 
 ![equation 3](https://github.com/arthurz323/research-proposal/blob/master/pics/equation3.png)
     - 
