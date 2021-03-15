@@ -27,7 +27,6 @@
 - **control movement**
 
 
-
 ## Techniques & Results
 
 ### PPC-STR & PPC-pM2 Represent Largely Distinct Subpopulations
@@ -66,6 +65,7 @@
 
 - only less than 10% PPC neurons are double-labelled  ➡️  PPC-STR & PPC-pM2 represent largely distinct PPC neuron subpoplations
 
+    ![anatomy of circuits](https://github.com/arthurz323/research-proposal/blob/master/pics/anatomy.png)
 
 ### PPC-STR & PPC-pM2 Neurons Receive Distinct Long-Range Inputs
 
@@ -85,7 +85,7 @@
 
 ### PPC-STR Neurons encode History-Dependent Action Bias
 
-PPC-STR & PPC-pM2 form parallel subsystems with distinct functions  ➡️  does any of these subsystem deal with history-dependent action bias?
+PPC-STR & PPC-pM2 form parallel subsystems with distinct functions  ➡️  *Q1: does any of these subsystem deal with history-dependent action bias?*
 
 - decision making task: press the joystick in the same direction as the visual stimulus (forward or downward drifting gratings) following the auditory cue
 
@@ -99,6 +99,33 @@ PPC-STR & PPC-pM2 form parallel subsystems with distinct functions  ➡️  does
 
     ![equation 3](https://github.com/arthurz323/research-proposal/blob/master/pics/equation3.png)
 
+To register projection neurons & compare which with *other PPC neurons*, used two-photon calcium imaging during decision-making behaviour:
+
+- cortical excitatory neurons express GCaMP6s, 24% ± 2% of all imaged PPC neurons showed different activity for different upcoming behaviour during ITI  ➡️  these neurons reflect history-dependent bias that impacts the upcoming choice
+
+- a weighted sum of ITI activity across PPC neurons in each trial could well reflect the history bias of that trial in the model, closely fitting the history bias that varies trial by trial.
+
+    ![decode history bias](https://github.com/arthurz323/research-proposal/blob/master/pics/decoding-results.png)
+    
+➡️  A1: yes, PPC neurons output history bias info during ITI
+
+➡️  *Q2: do PPC-STR & PPC-pM2 encode history bias differently?*
+
+- retrograde CAV-Cre tdTomato in STR & pM2 (separately), & CaMK2-tTA::tetO-GCaMP6s & tdTomato in PPC
+    
+    - 47% ± 3% of all labelled PPC projection neurons showed GCaMP6 signals
+    
+    - PPC-STR > PPC-pM2 in number, **cortical depth**, & prevalence of tuning to the upcoming choice during ITI (N-choice tuning)
+    
+    - PPC-STR & PPC-pM2 have similar history-dependent bias processing & task performance
+    
+➡️  A2: PPC-STR neurons are more likely to tune to N-choice
+
+➡️  *Q3:PPC-STR are deeper, does N-choice tuning increase with cortical depth?*
+
+- correlate depth of imaging field & fraction of neurons tune to N-choice  ➡️  cortical depth ⬆️, fraction of neurons tune to N-choice ⬆️,  ➡️  **different N-choice tuning between PPC-STR & PPC-pM2 populations might be solely explained by the difference in their depths**
+
+    - When the depths were matched, the fraction of neurons tuned to N choice in all imaged neurons in each field was not different between the two groups, yet still PPC-STR > PPC-pM2 in number.
 
 ![euqation 6](https://github.com/arthurz323/research-proposal/blob/master/pics/equation6.png)
 
@@ -109,7 +136,6 @@ PPC-STR & PPC-pM2 form parallel subsystems with distinct functions  ➡️  does
 
 
 
-- two-photon calcium imaging during decision-making
 
 - inhibitory opto
 
