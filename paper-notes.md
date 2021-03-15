@@ -97,9 +97,8 @@ PPC-STR & PPC-pM2 form parallel subsystems with distinct functions  ➡️  does
 
     - estimate the continuously varying history-dependent bias on a trial-by-trial basis, which is a variable internal to the mouse and not directly measurable (equation 3)
 
+    ![equation 3](https://github.com/arthurz323/research-proposal/blob/master/pics/equation3.png)
 
-![equation 3](https://github.com/arthurz323/research-proposal/blob/master/pics/equation3.png)
-    - 
 
 ![euqation 6](https://github.com/arthurz323/research-proposal/blob/master/pics/equation6.png)
 
