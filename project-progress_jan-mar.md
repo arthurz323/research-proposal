@@ -11,7 +11,7 @@ Although key brain areas involved in motor and visual control have been identifi
 ---
 ### Objective:
 
-    investigate how visual information is integrated into motor systems
+investigate how visual information is integrated into motor systems
 
 
 ### Premise:
@@ -34,4 +34,11 @@ visually-cued/guided reaching
     
 - inhibitory optogenetics (ipsi- &/ contra- PPC)
 
-    
+
+### Analysis
+
+- markdown light events (short & long), i.e., observe spikes & firing rate change during light on & off
+
+- decode light events from PPC & M2 signals, compare naive & expert mice
+
+- discuss with Matthaias
