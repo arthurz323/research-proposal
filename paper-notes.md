@@ -162,9 +162,9 @@ NOTE history dependency may mediated by downstream structure's axon bundles  ➡
 
 ➡️  PPC-STR neurons selectively control history dependency
 
-    - **the effect size of inactivation specific to the PPC-STR neurons, both soma and terminal, is similar to what we observed when inactivate the entire PPC (by activating parvalbumin-positive inhibitory neurons)**
+- **the effect size of inactivation specific to the PPC-STR neurons, both soma and terminal, is similar to what we observed when inactivate the entire PPC (by activating parvalbumin-positive inhibitory neurons)**
     
-    - The bias information encoded in PPC during the ITI might be offloaded to the basal ganglia where it is used to bias action selection
+- The bias information encoded in PPC during the ITI might be offloaded to the basal ganglia where it is used to bias action selection
     
 - history model: choices are predicted from choice-outcome history terms without stimulus
 
