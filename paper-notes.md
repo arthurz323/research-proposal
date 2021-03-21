@@ -94,6 +94,10 @@ PPC-STR & PPC-pM2 form parallel subsystems with distinct functions  ➡️  *Q1:
     ![equation 1](https://github.com/arthurz323/research-proposal/blob/master/pics/equation1.png)
 
     - the probability of choice significant dependent on choice-outcome history in the two-choice joystick task
+    
+    - stimulus model (equation 2): probability of the choice depends only on the stimulus & constant
+    
+    ![equation 2](https://github.com/arthurz323/research-proposal/blob/master/pics/equation2.png)
 
     - estimate the continuously varying history-dependent bias on a trial-by-trial basis, which is a variable internal to the mouse and not directly measurable (equation 3)
 
@@ -132,16 +136,55 @@ To register projection neurons & compare which with *other PPC neurons*, used tw
 
 ### PPC-STR Pathway Is Required for History Bias
 
+History bias encoding can be altered by perturbing **PPC-STR neurons**  ➡️  PPC-STR neurons soma inactivation:
 
+- Cre-dependent halorhodopsin 3.0 bilateral injection in PPC
 
+- wait for 8 weeks after injection for max. opsin expression
 
+- 15% randomly selected trials during behavioural task
 
-
-- inhibitory opto
-
-    - PPC-STR neuron soma or terminal
+    - green light
     
-    - PPC-pM2 soma
+    - 4s bilateral PPC inactivation during ITI
+
+- **History dependence (bias) = full model accuracy (equation 1) - stimulus model accuracy (equation 2)**, i.e., the difference of choice prediction accuracy between models
+
+➡️  history dependence sig. reduced in light-on trials  ➡️  PPC-STR neurons are essential for normal history dependency
+
+- analogous inactivation on PPC-pM2 neurons  ➡️  history dependence does not require functional PPC-pM2 neurons soma
+
+➡️  PPC-STR neurons are selectively involved in controlling history dependency
+
+NOTE history dependency may mediated by downstream structure's axon bundles  ➡️  PPC-STR neurons axon terminal inactivation (in STR):
+
+- similar results as soma inactivation
+
+➡️  PPC-STR neurons selectively control history dependency
+
+    - **the effect size of inactivation specific to the PPC-STR neurons, both soma and terminal, is similar to what we observed when inactivate the entire PPC (by activating parvalbumin-positive inhibitory neurons)**
+    
+    - The bias information encoded in PPC during the ITI might be offloaded to the basal ganglia where it is used to bias action selection
+    
+- history model: choices are predicted from choice-outcome history terms without stimulus
+
+    ![equation 4](https://github.com/arthurz323/research-proposal/blob/master/pics/equation4.png)
 
 
+### PPC-pM2 Neurons Are Involved in Movement Control
 
+Analyse how PPC-pM2 inactivation (during ITI) affects kinematic features ("geometry of motion") of movement:
+
+- the trajectories of movements from trial to trial was sig. reduced
+
+    ![movement trajectories change](https://github.com/arthurz323/research-proposal/blob/master/pics/movement-trajectories.png)
+    
+- peak velocity of movement sig. reduced
+
+➡️  PPC-pM2 neurons might contribute to the preparation of movements to produce faster & consistent movements
+
+![summary](https://github.com/arthurz323/research-proposal/blob/master/pics/projection-function.png)
+
+***PPC is involved in movement planning & online adjustment***
+
+- PPC-pM2 activity during ITI might be used to **prime** pM2 and use which to form **preparatory activity** for a movement
