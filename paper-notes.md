@@ -188,3 +188,51 @@ Analyse how PPC-pM2 inactivation (during ITI) affects kinematic features ("geome
 ***PPC is involved in movement planning & online adjustment***
 
 - PPC-pM2 activity during ITI might be used to **prime** pM2 and use which to form **preparatory activity** for a movement
+
+
+---
+
+Archambault et al., 2015 "Visually-guided correction of hand reaching movements: The neurophysiological bases in the cerebral cortex" [review in macaque]
+=====================================================================================================================================
+
+## Background
+
+- CNS feedforward processes plan out the reaching movement, feedback is used to control for errors during movement execution & to monitor the outcome.
+
+- Visual information has **continuous access** to motor CNS centers & make required adjustment due to changing task demands.
+
+- PPC lesion in human causes optic ataxia (OA): inability to guide the hand to viusal targets, without pure motor/visual deficit.
+
+    - unable to update the ongoing hand movements in **double-step target paradigm**, hand always *goes back to the original point before reaching for the next*
+    
+Paradigm:
+
+- Single-step target paradigm
+
+    - first stimulus  ➡️  first saccade  ➡️  first hand movement
+
+- Double-step target paradigm
+
+    - after first saccade & hand movement  ➡️  second stimulus  ➡️  second saccade  ➡️  **change in hand trajectory**
+    
+Quantifications:
+
+- eye reaction time (eRT1 & eRT2): first & second saccade
+
+- hand reaction time (hRT1 & hRT2): first & second hand reaction
+
+- hand movement time (hMT)
+
+- **NOTE** in double-step target paradigm, 
+
+NOTE **double-step target paradigm** varies in location & timing of the target shift:
+
+- new target is perpendicular/parallel to the first target
+
+- target shift happens 0-200ms from the onset of hand movement, i.e., during hMT
+
+- target shift happens after eRT1, i.e., during hRT  ➡️  subject usually is not conscious about the shift
+
+    - ***add this to proposal?? use eye-tracking?? first need to figure out the viusal field of mice, i.e., can they see if the target is in front of them? also will signal-to-noise level very low???*** ALSO **track hand speed with deeplabcut??**
+
+- online correction needs feedforward & feedback comparison, which takes place in PPC, i.e., "it is an optimal blending of cells combining feedforward & feedback signals that is crucial for the online correction of hand movements in PPC in order to contribute to online correction."
