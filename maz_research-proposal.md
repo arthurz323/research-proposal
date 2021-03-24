@@ -33,15 +33,18 @@ PPC-pM2 circuit mapping, i.e., **V1-PPC-pM2-V1**
 - timescales (Gantt chart)
 
     - **coincidence detector**: express ChR2 to PPC-M2 projections -> stimulate these axons in M2 during behaviour & npx recording -> electrical signal will back-propages to somas in PPC:
+    
         - light on: AP from PPC-M2 projecting neurons will be cancelled by ChR2 stimulation -> correspond npx channels will loss AP signal
+        
         - light off: AP from PPC-M2 projecting neurons will successfully reach M2 -> npx picks up AP signal;
+        
         - compare light on & off conditions -> accurately identify channels in npx that pick up AP signals from PPC-M2 projecting neurons
         
     - the same behaviour? a year of new behaviour development
     
     - expand the current circuit, & use different techniques to acquire info from all levels (e.g., inhibitory opto, meso scope imaging, more npx probes)
     
-    - decoding?
+    - decoding success rate?
         
         - layer/ area specific decoding
     
@@ -52,6 +55,8 @@ PPC-pM2 circuit mapping, i.e., **V1-PPC-pM2-V1**
         - less well for a short time rather than everything perfect for a long time
     
     - handedness change may be caused by the uncomfortable behavioural setting (under head fixed condition), need to check lateralised studies in rodents
+    
+    - introduce double-step hand movement to mice??
     
     - **CAUTION! do NOT plan too much! EVERYTHING takes a lot of time!! V1-PPC-M2/ACC needs two postdoc (2-year)**
 
