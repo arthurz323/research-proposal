@@ -20,7 +20,7 @@
 
 ### Objectives
 
-PPC-pM2 circuit mapping, i.e., **V1-PPC-pM2-V1**
+PPC-pM2 circuit mapping, i.e., **ACC-V1-PPC-pM2**
 
 - why this is important
 
