@@ -20,7 +20,27 @@
 
 ### Objectives
 
-PPC-pM2 circuit mapping, i.e., **ACC-V1-PPC-pM2**
+PPC-pM2 circuit mapping, i.e., **V1-PPC-pM2-V1** *ipsilateral*
+
+[visual cortex gives **biggest** input chunk (>20%) to both PPC-STR & PPC-pM2
+
+➡️  PPC-pM2 neurons receive more sensorimotor inputs, PPC-STR neurons receives more association inputs.] Hwang 2019
+
+➡️  sensorimotor cortical circuit mapping, / sensorimotor predictive coding mapping:
+
+- ACC is bidirectionally connected with pM2
+
+- ACC gives predictive signals to V1
+
+- also primary visual input (from eyes) goes to V1, V1 does "basic (?)" computation,
+
+- sends "processed" motor-info-coupled visual info to PPC
+
+- M2 sends a predictive flow to V1
+
+- thus completes the update loop
+
+[the input from ACC to V1 has a role in attentional modulation of visual responses (Zhang et al., 2014) and experience-dependent spatial predictions (Fiser et al., 2016).] Leinweber 2017
 
 - why this is important
 
@@ -29,6 +49,23 @@ PPC-pM2 circuit mapping, i.e., **ACC-V1-PPC-pM2**
 
 
 ### Research Plan
+
+discussed with Matt:
+
+- do V1-PPC-pM2
+
+- question: what info, i.e., physiologically speaking, does V1-PPC & pM2-V1, i.e., how does V1 involve/contribute to visuomotor behaviour
+
+- techniques:
+
+    - npx*3, with V1 & PPC back-to-back together
+    
+    - terminal inhibitory opto, in pM2-V1 terminal, & V1-PPC terminal
+    
+- behaviour:
+
+    - my new behaviour :)
+
 
 - timescales (Gantt chart)
 
