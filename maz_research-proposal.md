@@ -15,9 +15,54 @@ Scientific Summary (max. 200 words)
 Background (max. 700 words)
 ---------------------------
 
-Primates heavily rely on forelimbs to interact with the external environment. Forelimb reaching behaviour necessitates complex sensorimotor cortical computations of sensory stimulus perception and interpretation, target location, action preparation, selection, and execution <sup>1,2</sup>. Such behaviour and its neural mechanisms have been extensively studied in non-human primate models <sup>3,4,5,6</sup>, yet still little is known about sensorimotor information cortical integration. To map out the underlying sensorimotor neural (sub)circuit and further dissect the role of each node and their interaction, it is essential to develop sensorimotor behavioural paradigm in mouse models so that the latest genetic and electrophysiological tools can be implemented.
+reaching behaviour -> 
 
-Existing studies which use forelimb reaching task ... lack... & inclusion of multiple sensory modalities & ...factors ... hinders the decomposition. ... based on work from Galinanes 2018, this project further adjust the directional reaching paradigm, ... pure visuomotor, clearly trackable behaviour, easily adaptable/modifiable difficulty...
+Primates heavily rely on forelimbs to interact with the external environment. Forelimb reaching behaviour necessitates complex visuomotor cortical computations of visual stimulus perception and interpretation, target location, action preparation, selection, and execution [Galiñanes 2018, Archambault 2015]. Upon visual presence of the target, motor planning information from the higher-level cortical areas has to converge with the lower-level viusal information to initiate a successful reach. Such process and its underlying neural mechanisms have been extensively studied in human and non-human primate models [Georgopoulos 1982, Georgopoulos 1986, Schwartz 1988, Archambault 2015]; immense evidence has pointed out that the posterior pariatal cortex (PPC), a key hub that conducts sensorimotor transformation, is necessary for the successful performance of viusally-guided reaching [Mountcastle 1975, Johnson 1993, Caminiti 1996, Anderson 1997, Desmurget 1999, Pisella 2000, Battaglia-Mayer 2001,Archambault 2009, Archambault 2015].
+
+However, the PPC alone does not paint the whole picture; to map out the neural (sub)circuits controlling the viusally-guided reaching behaviour and further dissect the role of each node and their interactions, recent visuomotor experiments are shifting towards using mouse models [Luo 2008, O' Connor, 2009, Pho 2016, Makino 2017, Galiñanes 2018, Hwang 2019]. Apart from the availability of the latest viral, genetic, and electrophysiological tools that allow neuronal resolution circuit mapping and more precise experimental manipulations, mouse models 
+
+Visuomotor experimental work on mouse models is fruitful/informative/valuable... **focus on Galiñanes & Hwang here**
+
+Nonetheless, crucial question that remain to be answered ... what info is sending?
+
+
+
+ ... is commencing... limitation of the primates study... it is essential to develop sensorimotor behavioural paradigm in mouse models so that the latest genetic and electrophysiological tools can be implemented.
+
+insufficient for such sofisticated 
+
+However, what physiological computations does PPC perform to ... how sensorimotor information integrates to perform the visually-guided reaching behaviour... is unknown.
+
+...require continuous integration
+
+Visual information has  While the primary visual cortex (V1)   
+
+
+
+
+
+However, little is known about how sensorimotor information integrates to perform the visually-guided reaching behaviour.
+
+Evidence immensely point out that the posterior pariatal cortex (PPC) is necessary for the successful performance of viusally-guided reaching. In humans, bilateral PPC lesion does not cause pure motor or visual deficit, and yet, patients are incapable of accurately guiding their hands to viusal targets (Pisella 2000, Archambault 2015). 
+
+~~PPC ... a key hub that conducts sensorimotor transformation which is critical for viusally-guided behaviour. it associates visual and motor cortical (Pho 2016, Hwang 2019, Anderson 1997)~~
+
+& M2
+
+
+Specifically, feedforward and feedback signals are continuously flowing across 
+
+
+also offered the basis for computational frameworks, necessary to causally link neuronal activity with motor control (Scott and Kalaska, 1997; Shadmehr and Mussa-Ivaldi, 1994). Cue-guided, delayed, and memory-based versions of this task have made it possible to probe different aspects of sensory-motor processing. [Galiñanes 2018]
+
+
+
+
+Given **"the close resemblance of the reach-to-grasp sequence supports the hypothesis that reaching behavior is homologous in rodents and primates (Sacrey et al., 2009; Whishaw et al., 1992)" Galinanes et al., 2018"...** To map out the underlying sensorimotor neural (sub)circuit and further dissect the role of each node and their interaction, it is essential to develop sensorimotor behavioural paradigm in mouse models so that the latest genetic and electrophysiological tools can be implemented.
+
+...... recent mice studies also validate that PPC is a key hub that associate visual and motor cortical areas (sensorimotor transformation; Pho 2016, Hwang 2019, Anderson 1997)
+
+Forelimb reaching task in head-fixed mice is only starting to commence, and behavioural paradigms either lack... & inclusion of multiple sensory modalities & ...factors ... hinders the decomposition. ... based on work from Galinanes 2018, this project further adjust the directional reaching paradigm, ... pure visuomotor, clearly trackable behaviour, easily adaptable/modifiable difficulty...
 
 after behaviour development, cortical circuit:
 
@@ -35,7 +80,7 @@ recently has it been adapted into mouse models to exploit genetic and electrophy
     
     - extensively studied in primate models, carefully tease out each node of the neural circuit --> use mouse models
     
-        - advantages compare to primate:
+        - advantages compare to primate: available tools -> higher neuronal resolution & more precise manipulation; simpler anatomical construction -> find basic mechanism might be generalised; less time-consuming -> quicker experimental rotation; 
         
     - "the close resemblance of the reach-to-grasp sequence supports the hypothesis that reaching behavior is homologous in rodents and primates (Sacrey et al., 2009; Whishaw et al., 1992)" Galinanes et al., 2018
 
@@ -93,7 +138,7 @@ recently has it been adapted into mouse models to exploit genetic and electrophy
 
 Movement is guided by vision.
 
-Vision, as a dominant sensation, extensively contributes to behaviour (check motivation letter & neural dynamics proposal). One key hub of the visuomotor information coupling is posterior pariatal cortex (PPC), evidence has been found in both primates and mice (ref. here). Specifically, PPC lesion in human causes optic ataxia (OA), i.e., inability to guide the hand to viusal targets, without pure motor/visual deficit; in mice, bilateral PPC-pM2 neurons inactivation disrupts the preparation of movements to produce fast & consistent movements...
+Vision, as a dominant sensation, extensively contributes to behaviour (check motivation letter & neural dynamics proposal). One key hub of the visuomotor information coupling is posterior pariatal cortex (PPC), evidence has been found in both primates and mice (ref. here). **Specifically, PPC lesion in human causes optic ataxia (OA), i.e., inability to guide the hand to viusal targets, without pure motor/visual deficit**; in mice, bilateral PPC-pM2 neurons inactivation disrupts the preparation of movements to produce fast & consistent movements...
 
 evidence has shown that PPC receives projections from V1 (V1 feeds info to higher-level cortex e.g., PPC; find refs!), pM2 projects to V1 with motor-coupled visual flow predictions, yet in this visuomotor cortical circuit, the physiological information sent & received by V1 in unknown, let alone how these information change over sensorimotor behaviour learning.
 
@@ -216,7 +261,7 @@ References
 
 1. Galiñanes, Gregorio Luis, et al. “Directional Reaching for Water as a Cortex-Dependent Behavioral Framework for Mice.” *Cell Reports (Cambridge)*, vol. 22, no. 10, 2018, pp. 2767–2783.
 
-2. Archambault, P.S, et al. “Visually-Guided Correction of Hand Reaching Movements: The Neurophysiological Bases in the Cerebral Cortex.” *Vision Research (Oxford)*, vol. 110, no. Pt B, 2015, pp. 244–256.
+2. Archambault, Philippe S, et al. “Cortical Mechanisms for Online Control of Hand Movement Trajectory: The Role of the Posterior Parietal Cortex.” *Cerebral Cortex* (New York, N.Y. 1991), vol. 19, no. 12, 2009, pp. 2848–2864.
 
 3. Mountcastle, V. B, et al. “Posterior Parietal Association Cortex of the Monkey: Command Functions for Operations within Extrapersonal Space.” *Journal of Neurophysiology*, vol. 38, no. 4, 1975, pp. 871–908.
 
@@ -224,7 +269,7 @@ References
 
 5. Schwartz, AB, et al. “Primate Motor Cortex and Free Arm Movements to Visual Targets in Three- Dimensional Space. I. Relations between Single Cell Discharge and Direction of Movement.” *The Journal of Neuroscience*, vol. 8, no. 8, 1988, pp. 2913–2927.
 
-6. Apostolos P. Georgopoulos, et al. “Neuronal Population Coding of Movement Direction.” *Science* (American Association for the Advancement of Science), vol. 233, no. 4771, 1986, pp. 1416–1419.
+7. Whishaw, Ian Q, et al. “Organization of the Reach and Grasp in Head-Fixed vs Freely-Moving Mice Provides Support for Multiple Motor Channel Theory of Neocortical Organization.” *Experimental Brain Research*, vol. 235, no. 6, 2017, pp. 1919–1932.
 
 Hwang, Eun Jung, et al. “Corticostriatal Flow of Action Selection Bias.” *Neuron (Cambridge, Mass.)*, vol. 104, no. 6, 2019, pp. 1126–1140.e6.
 
@@ -234,4 +279,24 @@ Schwarz, Cornelius, et al. “The Head-Fixed Behaving Rat-Procedures and Pitfall
 
 Guo, Jian-Zhong, et al. “Cortex Commands the Performance of Skilled Movement.” *ELife*, vol. 4, 2015, p. e10774.
 
+Pho, Gerald N, et al. “Task-Dependent Representations of Stimulus and Choice in Mouse Parietal Cortex.” *Nature Communications*, vol. 9, no. 1, 2018, pp. 2596–16.
 
+Andersen, R. A, et al. “Multimodal Representation of Space in the Posterior Parietal Cortex and Its Use in Planning Movements.” *Annual Review of Neuroscience*, vol. 20, no. 1, 1997, pp. 303–330.
+
+Archambault, P.S, et al. “Visually-Guided Correction of Hand Reaching Movements: The Neurophysiological Bases in the Cerebral Cortex.” *Vision Research (Oxford)*, vol. 110, no. Pt B, 2015, pp. 244–256.
+
+Battaglia-Mayer, A, et al. “Eye-Hand Coordination during Reaching. II. An Analysis of the Relationships between Visuomanual Signals in Parietal Cortex and Parieto-Frontal Association Projections.” *Cerebral Cortex* (New York, N.Y. 1991), vol. 11, no. 6, 2001, pp. 528–544.
+
+Pisella, L, et al. “An 'Automatic Pilot' for the Hand in Human Posterior Parietal Cortex: toward Reinterpreting Optic Ataxia.” *Nature Neuroscience*, vol. 3, no. 7, 2000, pp. 729–736.
+
+Georgopoulos, AP, et al. “Neuronal Population Coding of Movement Direction.” *Science* (American Association for the Advancement of Science), vol. 233, no. 4771, 1986, pp. 1416–1419.
+
+Johnson, P. B, et al. “Cortical Networks for Visual Reaching.” *Experimental Brain Research*, vol. 97, no. 2, 1993, pp. 361–365.
+
+Desmurget, M, et al. “Role of the Posterior Parietal Cortex in Updating Reaching Movements to a Visual Target.” *Nature Neuroscience*, vol. 2, no. 6, 1999, pp. 563–567.
+
+Caminiti, R, et al. “The Sources of Visual Information to the Primate Frontal Lobe: a Novel Role for the Superior Parietal Lobule.” *Cerebral Cortex* (New York, N.Y. 1991), vol. 6, no. 3, 1996, pp. 319–328.
+
+O'Connor, Daniel H, et al. “Reverse Engineering the Mouse Brain.” *Nature* (London), vol. 461, no. 7266, 2009, pp. 923–929.
+
+Luo, Liqun, et al. “Genetic Dissection of Neural Circuits.” *Neuron* (Cambridge, Mass.), vol. 57, no. 5, 2008, pp. 634–660.
