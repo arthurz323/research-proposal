@@ -49,4 +49,12 @@ Sacrey, Lori-Ann R, et al. “Similar Hand Shaping in Reaching-for-Food (Skilled
 
 Whishaw, Ian Q, et al. “Skilled Reaching in Rats and Humans: Evidence for Parallel Development or Homology.” *Behavioural Brain Research*, vol. 47, no. 1, 1992, pp. 59–70.
 
-Goard, Michael J, et al. “Distinct Roles of Visual, Parietal, and Frontal Motor Cortices in Memory-Guided Sensorimotor Decisions.” *ELife*, vol. 5, no. AUGUST, 2016, pp. eLife, 2016–08-04, Vol.5 (AUGUST).
+Goard, Michael J, et al. “Distinct Roles of Visual, Parietal, and Frontal Motor Cortices in Memory-Guided Sensorimotor Decisions.” *ELife*, vol. 5, no. e13764, 2016.
+
+Zingg, Brian, et al. “Neural Networks of the Mouse Neocortex.” *Cell* (Cambridge), vol. 156, no. 5, 2014, pp. 1096–1111.
+
+Hovde, Karoline, et al. “Architecture and Organization of Mouse Posterior Parietal Cortex Relative to Extrastriate Areas.” *The European Journal of Neuroscience*, vol. 49, no. 10, 2019, pp. 1313–1329.
+
+Siyu Zhang, et al. “Long-Range and Local Circuits for Top-down Modulation of Visual Cortex Processing.” *Science* (American Association for the Advancement of Science), vol. 345, no. 6197, 2014, pp. 660–665.
+
+Zhang, Siyu, et al. “Organization of Long-Range Inputs and Outputs of Frontal Cortex for Top-down Control.” *Nature Neuroscience*, vol. 19, no. 12, 2016, pp. 1733–1742.
