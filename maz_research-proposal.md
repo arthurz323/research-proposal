@@ -19,11 +19,11 @@ Primates heavily rely on forelimbs to interact with the external environment. Fo
 
 However, the PPC alone does not paint the whole picture; to depict the neural (sub)circuits controlling the visually-guided reaching behaviour and further dissect the role of each node and their interactions, recent visuomotor experiments are shifting towards using mouse models [1,15-20]. Apart from the availability of the latest viral, genetic, electrophysiological, and projection-specific inhibitory tools that allow neuronal-resolution experimental manipulations and circuit mapping, comprehensive knowledge about the mouse brain and its reduced complexity will also aid teasing out basic visuomotor neural mechanisms [1]. Moreover, homologous with which in primates, forelimb reaching behaviour is too highly prevalent in rodents [1,19,21,22]. Therefore, advancing visuomotor processing research on rodents is essential for ethological and translational visuomotor neural circuits mapping.
 
-Indeed, experimental work on mouse models has been fruitful; the role of PPC and the visuomotor (sub)circuits it belongs to are revealing. The PPC not only has recurrent anatomical connections with visual cortices, especially the primary visual cortex (V1), and the secondary motor cortex (M2) [20,23-26], these projections are found to be functionally necessary for visuomotor transformation and integration [17,20,24,27]. Specifically, visual information encoded by the V1 goes to the PPC [24], the PPC-M2 neurons use which to selectively control movement planning, selection, and its kinematic features (i.e., "geometry of motion") [20,26], and the M2 combining with its adjacent anterior cingulate cortex (ACC) in turn provide movement-related visual predictive flow back to the V1 [27]. Together, these areas complete the visuomotor processing loop that potentially controls the visually-guided reaching behaviour.
+Indeed, experimental work on mouse models has been fruitful; the role of PPC and the visuomotor (sub)circuits it belongs to are revealing. The PPC not only has recurrent anatomical connections with visual cortices, especially the primary visual cortex (V1), and the secondary motor cortex (M2) [20,23-26], these projections are found to be functionally necessary for visuomotor transformation and integration [17,20,24,27]. Specifically, visual information encoded by the V1 goes to the PPC [24], the PPC-M2 neurons use which to selectively control movement planning, selection, and its kinematic features (i.e., "geometry of motion") [20,26], and the M2 combining with its adjacent anterior cingulate cortex (ACC) in turn provide movement-related visual predictive flow back to the V1 [27]. Together, these areas complete the visuomotor processing subnetwork that potentially controls the visually-guided reaching behaviour.
 
 One caveat communal to above-mentioned studies is that the behavioural task (joystick/lever push based on visual discrimination [17,20,24]) itself is not, arguably, initiated from direct visuomotor-coupling like visually-guided reaching behaviour; but rather, visual and motor processes in the task are separately coupled with higher-level cognitive processes. Additionally, licking as motor output has limited translational value [1]. Therefore, adapting the "golden-standard" visually-guided reaching behavioural paradigm in primates to rodents is indispensable. Galiñanes et al (2018) took the initiative to make such adaptation, reach for water droplets, on head-fixed mice has been confirm by our currently on-going experiment to be quickly learnable, clearly trackable, easily implementable and modifiable.
 
-Despite the prominent progress in disentangling visuomotor processing from all aspects of the experimental work, several questions and limitations remain to be addressed. Existing visuomotor circuit maps are under two-node scale, no study has extended a two-node connection to a closed visuomotor circuit loop; how visual information integrates into the motor system resides in a speculative level. Particularly, the ACC and M2 both project to the V1. Although the ACC-V1 projection has been studied [25,28,29], the V1's contribution to the PPC-M2 visual-information-integrated, motor-specific projection, and the feedforward the V1 receives from the M2, i.e., how the connections among V1, PPC, and M2 are formed and changed over behaviour, are poorly understood. Given difference among behavioural paradigms, visually-guided reaching behaviour that directly recruits visuomotor processing has not been systematically studied in rodents, let alone the neural (sub)circuit controls it, and the behaviour paradigm from Galiñanes et al. (2018) does not contain a salient visual cue that guides the reach. More importantly, the physiological connectivity among each visuomotor circuit node is unknown. Therefore, this study offers to tackle issues by further developing the visually-guided reaching behavioural paradigm, expanding two-node mono-directional visuomotor cortical projection mapping into a closed three-node visuomotor circuit loop, and dissecting the physiological function of each node with high-density electrophysiology probes [30] and terminal excitatory and inhibitory optogenetics.
+Despite the prominent progress in disentangling visuomotor processing from all aspects of the experimental work, several questions and limitations remain to be addressed. Existing visuomotor circuit maps are under two-node scale, no study has extended a two-node connection to a closed visuomotor subnetwork; how visual information integrates into the motor system resides in a speculative level. Particularly, the ACC and M2 both project to the V1. Although the ACC-V1 projection has been studied [25,28,29], the V1's contribution to the PPC-M2 visual-information-integrated, motor-specific projection, and the top-down signals V1 receives from the M2, i.e., how the connections among V1, PPC, and M2 are formed and changed over behaviour, are poorly understood. Given difference among behavioural paradigms, visually-guided reaching behaviour that directly recruits visuomotor processing has not been systematically studied in rodents, let alone the neural (sub)circuit controls it, and the behaviour paradigm from Galiñanes et al. (2018) does not contain a salient visual cue that guides the reach. More importantly, the physiological connectivity among each visuomotor circuit node is unknown. Therefore, this study offers to tackle issues by further developing the visually-guided reaching behavioural paradigm, expanding two-node mono-directional visuomotor cortical projection mapping into a closed three-node visuomotor subnetwork, and dissecting the physiological function of each node with high-density electrophysiology probes [30] and terminal excitatory and inhibitory optogenetics.
 
 
 
@@ -31,6 +31,16 @@ Proposed Research (main part; max. 1400 words)
 ----------------------------------------------
 
 ### Objectives
+
+To map the V1-PPC-M2-V1 visuomotor subnetwork underlying the viusally-guided reaching behaviour, taking into accout the aforementioned issues and limitations, this project aims to further extend our current visually-guided reaching behaviour paradigm and test the following hypotheses:
+
+1. V1 performs low-level visual computations and provides PPC with basic movement-specific visual information for further visuomotor integration;
+
+2. M2 provides movement-specific predictive visual flow to V1 that is essential for visuomotor learning;
+
+3. V1-PPC-M2-V1 subnetwork becomes increasingly coordinated across learning of a visuomotor behaviour.
+
+
 
 - why this is important
 
@@ -65,7 +75,7 @@ PPC-pM2 circuit mapping, i.e., **V1-PPC-pM2-V1** *ipsilateral*
 
 - M2 sends a predictive flow to V1
 
-- thus completes the update loop
+- thus completes the update subnetwork
 
 [the input from ACC to V1 has a role in attentional modulation of visual responses (Zhang et al., 2014) and experience-dependent spatial predictions (Fiser et al., 2016).] Leinweber 2017
 
@@ -133,7 +143,7 @@ current project working on circuit mapping PPC-pM2:
 
 - do V1-PPC-pM2
 
-- question: what info, i.e., physiologically speaking, does V1-PPC & pM2-V1, i.e., how does V1 involve/contribute to visuomotor behaviour, & how does this "loop" update over learning
+- question: what info, i.e., physiologically speaking, does V1-PPC & pM2-V1, i.e., how does V1 involve/contribute to visuomotor behaviour, & how does this "subnetwork" update over learning
 
 - techniques:
 
