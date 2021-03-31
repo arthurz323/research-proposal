@@ -86,24 +86,14 @@ Despite the prominent progress in disentangling visuomotor processing from all a
 
     - terminal inhibitory opto (Komiyama 2019)
 
-
-
-
-
-Movement is guided by vision.
-
-Vision, as a dominant sensation, extensively contributes to behaviour (check motivation letter & neural dynamics proposal). One key hub of the visuomotor information coupling is posterior pariatal cortex (PPC), evidence has been found in both primates and mice (ref. here). **Specifically, PPC lesion in human causes optic ataxia (OA), i.e., inability to guide the hand to viusal targets, without pure motor/visual deficit**; in mice, bilateral PPC-pM2 neurons inactivation disrupts the preparation of movements to produce fast & consistent movements...
-
-evidence has shown that PPC receives projections from V1 (V1 feeds info to higher-level cortex e.g., PPC; find refs!), pM2 projects to V1 with motor-coupled visual flow predictions, yet in this visuomotor cortical circuit, the physiological information sent & received by V1 in unknown, let alone how these information change over sensorimotor behaviour learning.
-
+---
 current project working on circuit mapping PPC-pM2:
 
 - naive mice, visuomotor
 
 - expert mice, 
 
-thus, this project aims to expand the current two-node mono-directional visuomotor cortical projection into a three-node visual-processing-centred visuomotor cortical circuit, 
-
+---
 
 Proposed Research (main part; max. 1400 words)
 ----------------------------------------------
