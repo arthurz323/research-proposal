@@ -27,26 +27,59 @@ Despite the prominent progress in disentangling visuomotor processing from all a
 
 
 
+Proposed Research (main part; max. 1400 words)
+----------------------------------------------
 
-- visuomotor behaviour
-    
-    - forellimb reaching is frequent yet needs complex cortical computation
-    
-    - extensively studied in primate models, carefully tease out each node of the neural circuit --> use mouse models
-    
-        - advantages compare to primate: available tools -> higher neuronal resolution & more precise manipulation; simpler anatomical construction -> find basic mechanism might be generalised; less time-consuming -> quicker experimental rotation; 
-        
-    - "the close resemblance of the reach-to-grasp sequence supports the hypothesis that reaching behavior is homologous in rodents and primates (Sacrey et al., 2009; Whishaw et al., 1992)" Galinanes et al., 2018
+### Objectives
 
-- three-node loop
+- why this is important
 
-    - V1: primary/basic computation
-    
-    - PPC: viusally-guided reaching & visuomotor coupling
-    
-    - pM2: esp. introduce PPC-pM2 functioning from Hwang et al., 2019
+- **hypotheses???**: V1 plays a vital role (is essential) in sensorimotor cortical circuit during visually-guided behaviour
 
-    - pM2 projects back to V1
+1. V1 performs low-level visual processing and provides PPC with basic motor-related visual information for further visuomotor integration
+    
+    - exp: V1-PPC axonal terminal inactivation
+    
+2. M2 provides predictive motor-related visual flow to V1 that is essential for visuomotor learning
+
+3. V1-PPC-M2-V1 subnetwork becomes increasingly coordinated across learning of a visuomotor task
+
+    - i should hypothesise about the property/characteristics of the physiological info, e.g., pM2 sends predictive flow (corollary discharge) to V1, and V1 performs on-site computation (filtration? coupling?), and send motor related flow to PPC (ask Matt...)
+    
+
+PPC-pM2 circuit mapping, i.e., **V1-PPC-pM2-V1** *ipsilateral*
+
+[visual cortex gives **biggest** input chunk (>20%) to both PPC-STR & PPC-pM2
+
+➡️  PPC-pM2 neurons receive more sensorimotor inputs, PPC-STR neurons receives more association inputs.] Hwang 2019
+
+➡️  sensorimotor cortical circuit mapping, / sensorimotor predictive coding mapping:
+
+- ACC is bidirectionally connected with pM2
+
+- ACC gives predictive signals to V1
+
+- also primary visual input (from eyes) goes to V1, V1 does "basic (?)" computation,
+
+- sends "processed" motor-info-coupled visual info to PPC
+
+- M2 sends a predictive flow to V1
+
+- thus completes the update loop
+
+[the input from ACC to V1 has a role in attentional modulation of visual responses (Zhang et al., 2014) and experience-dependent spatial predictions (Fiser et al., 2016).] Leinweber 2017
+
+
+
+
+### Research Plan
+
+aim 1: novel behavioural paradigm development
+
+aim 2: in naive mice, map physiological information V1-PPC, & M2-V1
+
+aim 3: dissect physiological & temporally role of each node by axonal terminal inhibitory opto
+
 
 - behaviour paradigm
 
@@ -95,60 +128,8 @@ current project working on circuit mapping PPC-pM2:
 
 ---
 
-Proposed Research (main part; max. 1400 words)
-----------------------------------------------
 
-aim 1: novel behavioural paradigm development
-
-aim 2: in naive mice, map physiological information V1-PPC, & M2-V1
-
-aim 3: dissect physiological & temporally role of each node by axonal terminal inhibitory opto
-
-### Objectives
-
-- why this is important
-
-- **hypotheses???**: V1 plays a vital role (is essential) in sensorimotor cortical circuit during visually-guided behaviour
-
-1. V1 performs low-level visual processing and provides PPC with basic motor-related visual information for further visuomotor integration
-    
-    - exp: V1-PPC axonal terminal inactivation
-    
-2. M2 provides predictive motor-related visual flow to V1 that is essential for visuomotor learning
-
-3. V1-PPC-M2-V1 subnetwork becomes increasingly coordinated across learning of a visuomotor task
-
-    - i should hypothesise about the property/characteristics of the physiological info, e.g., pM2 sends predictive flow (corollary discharge) to V1, and V1 performs on-site computation (filtration? coupling?), and send motor related flow to PPC (ask Matt...)
-    
-
-PPC-pM2 circuit mapping, i.e., **V1-PPC-pM2-V1** *ipsilateral*
-
-[visual cortex gives **biggest** input chunk (>20%) to both PPC-STR & PPC-pM2
-
-➡️  PPC-pM2 neurons receive more sensorimotor inputs, PPC-STR neurons receives more association inputs.] Hwang 2019
-
-➡️  sensorimotor cortical circuit mapping, / sensorimotor predictive coding mapping:
-
-- ACC is bidirectionally connected with pM2
-
-- ACC gives predictive signals to V1
-
-- also primary visual input (from eyes) goes to V1, V1 does "basic (?)" computation,
-
-- sends "processed" motor-info-coupled visual info to PPC
-
-- M2 sends a predictive flow to V1
-
-- thus completes the update loop
-
-[the input from ACC to V1 has a role in attentional modulation of visual responses (Zhang et al., 2014) and experience-dependent spatial predictions (Fiser et al., 2016).] Leinweber 2017
-
-
-
-
-### Research Plan
-
-discussed with Matt:
+### discussed with Matt:
 
 - do V1-PPC-pM2
 
