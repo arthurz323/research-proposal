@@ -55,14 +55,17 @@ References
 
 27. Leinweber, Marcus, et al. “A Sensorimotor Circuit in Mouse Cortex for Visual Flow Predictions.” *Neuron* (Cambridge, Mass.), vol. 96, no. 5, 2017, p. 1204.
 
-28. Jun, James J, et al. “Fully Integrated Silicon Probes for High-Density Recording of Neural Activity.” *Nature (London)*, vol. 551, no. 7679, 2017, pp. 232–236.
+28. Zhang, Siyu. et al. “Long-Range and Local Circuits for Top-down Modulation of Visual Cortex Processing.” *Science* (American Association for the Advancement of Science), vol. 345, no. 6197, 2014, pp. 660–665.
+
+29. Fiser, Aris, et al. “Experience-Dependent Spatial Expectations in Mouse Visual Cortex.” *Nature Neuroscience*, vol. 19, no. 12, 2016, pp. 1658–1664.
+
+30. Jun, James J, et al. “Fully Integrated Silicon Probes for High-Density Recording of Neural Activity.” *Nature (London)*, vol. 551, no. 7679, 2017, pp. 232–236.
 
 Schwarz, Cornelius, et al. “The Head-Fixed Behaving Rat-Procedures and Pitfalls.” *Somatosensory & Motor Research*, vol. 27, no. 4, 2010, pp. 131–148.
 
 Guo, Jian-Zhong, et al. “Cortex Commands the Performance of Skilled Movement.” *ELife*, vol. 4, 2015, p. e10774.
 
 
-Zhang, Siyu. et al. “Long-Range and Local Circuits for Top-down Modulation of Visual Cortex Processing.” *Science* (American Association for the Advancement of Science), vol. 345, no. 6197, 2014, pp. 660–665.
 
 
 
