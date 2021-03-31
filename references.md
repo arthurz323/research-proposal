@@ -55,6 +55,6 @@ Zingg, Brian, et al. “Neural Networks of the Mouse Neocortex.” *Cell* (Cambr
 
 Hovde, Karoline, et al. “Architecture and Organization of Mouse Posterior Parietal Cortex Relative to Extrastriate Areas.” *The European Journal of Neuroscience*, vol. 49, no. 10, 2019, pp. 1313–1329.
 
-Siyu Zhang, et al. “Long-Range and Local Circuits for Top-down Modulation of Visual Cortex Processing.” *Science* (American Association for the Advancement of Science), vol. 345, no. 6197, 2014, pp. 660–665.
+Zhang, Siyu. et al. “Long-Range and Local Circuits for Top-down Modulation of Visual Cortex Processing.” *Science* (American Association for the Advancement of Science), vol. 345, no. 6197, 2014, pp. 660–665.
 
 Zhang, Siyu, et al. “Organization of Long-Range Inputs and Outputs of Frontal Cortex for Top-down Control.” *Nature Neuroscience*, vol. 19, no. 12, 2016, pp. 1733–1742.
