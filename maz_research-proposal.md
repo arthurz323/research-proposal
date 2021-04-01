@@ -1,4 +1,4 @@
-Title: Visually-guided behaviour... visuomotor circuit...
+Title: Visuomotor Subnetwork Mapping and Computational Modelling of the Visually-Guided Reaching Behaviour 
 ========
 
 Lay Summary (max. 200 words)
@@ -23,7 +23,7 @@ Indeed, experimental work on mouse models has been fruitful; the role of PPC and
 
 One caveat communal to above-mentioned studies is that the behavioural task (joystick/lever push based on visual discrimination [17,20,24]) itself is not, arguably, initiated from direct visuomotor-coupling like visually-guided reaching behaviour; but rather, visual and motor processes in the task are separately coupled with higher-level cognitive processes. Additionally, licking as motor output has limited translational value [1]. Therefore, adapting the "golden-standard" visually-guided reaching behavioural paradigm in primates to rodents is indispensable. Galiñanes et al (2018) took the initiative to make such adaptation, reach for water droplets, on head-fixed mice has been confirm by our currently on-going experiment to be quickly learnable, clearly trackable, easily implementable and modifiable.
 
-Despite the prominent progress in disentangling visuomotor processing from all aspects of the experimental work, several questions and limitations remain to be addressed. Existing visuomotor circuit maps are under two-node scale, no study has extended a two-node connection to a closed visuomotor subnetwork; how visual information integrates into the motor system resides in a speculative level. Particularly, the ACC and M2 both project to the V1. Although the ACC-V1 projection has been studied [25,28,29], the V1's contribution to the PPC-M2 visual-information-integrated, motor-specific projection, and the top-down signals V1 receives from the M2, i.e., how the connections among V1, PPC, and M2 are formed and changed over behaviour, are poorly understood. Given difference among behavioural paradigms, visually-guided reaching behaviour that directly recruits visuomotor processing has not been systematically studied in rodents, let alone the neural (sub)circuit controls it, and the behaviour paradigm from Galiñanes et al. (2018) does not contain a salient visual cue that guides the reach. More importantly, the physiological connectivity among each visuomotor circuit node is unknown. Therefore, this study offers to tackle issues by further developing the visually-guided reaching behavioural paradigm, expanding two-node mono-directional visuomotor cortical projection mapping into a closed three-node visuomotor subnetwork, and dissecting the physiological function of each node with high-density electrophysiology probes [30] and terminal excitatory and inhibitory optogenetics.
+Despite the prominent progress in disentangling visuomotor processing from all aspects of the experimental work, several questions and limitations remain to be addressed. Existing visuomotor circuit maps are under two-node scale, no study has extended a two-node connection to a closed visuomotor subnetwork; how visual information integrates into the motor system resides in a speculative level. Particularly, the ACC and M2 both project to the V1. Although the ACC-V1 projection has been studied [25,28,29], the V1's contribution to the PPC-M2 visual-information-integrated, motor-specific projection, and the top-down signals V1 receives from the M2, i.e., how the connections among V1, PPC, and M2 are formed and changed over behaviour, are poorly understood. Given difference among behavioural paradigms, visually-guided reaching behaviour that directly recruits visuomotor processing has not been systematically studied in rodents, let alone the neural (sub)circuit controls it, and the behaviour paradigm from Galiñanes et al. (2018) does not contain a salient visual cue that guides the reach. More importantly, the physiological connectivity among each visuomotor circuit node is unknown. Therefore, this study offers to tackle issues by further developing the visually-guided reaching behavioural paradigm, expanding two-node mono-directional visuomotor cortical projection mapping into a closed three-node visuomotor subnetwork, and dissecting the physiological function of each node with high-density electrophysiology Neuropixels (npx) probes [30] and terminal excitatory and inhibitory optogenetics.
 
 
 
@@ -34,61 +34,65 @@ Proposed Research (main part; max. 1400 words)
 
 To map the V1-PPC-M2-V1 visuomotor subnetwork underlying the viusally-guided reaching behaviour, taking into accout the aforementioned issues and limitations, this project aims to further extend our current visually-guided reaching behaviour paradigm and test the following hypotheses:
 
-1. V1 performs low-level visual computations and provides PPC with basic movement-specific visual information for further visuomotor integration;
+1. V1 performs low-level visual computations and provides PPC with basic movement-specific visual information for further visuomotor integration; [exp: V1-PPC axonal terminal inactivation]
 
-2. M2 provides movement-specific predictive visual flow to V1 that is essential for visuomotor learning;
+2. M2 provides movement-specific predictive visual flow to V1 that is essential for visuomotor learning; [exp: M2-V1 axonal terminal inactivation]
 
 3. V1-PPC-M2-V1 subnetwork becomes increasingly coordinated across learning of a visuomotor behaviour.
 
 
 
-- why this is important
-
-- **hypotheses???**: V1 plays a vital role (is essential) in sensorimotor cortical circuit during visually-guided behaviour
-
-1. V1 performs low-level visual processing and provides PPC with basic motor-related visual information for further visuomotor integration
-    
-    - exp: V1-PPC axonal terminal inactivation
-    
-2. M2 provides predictive motor-related visual flow to V1 that is essential for visuomotor learning
-
-3. V1-PPC-M2-V1 subnetwork becomes increasingly coordinated across learning of a visuomotor task
-
-    - i should hypothesise about the property/characteristics of the physiological info, e.g., pM2 sends predictive flow (corollary discharge) to V1, and V1 performs on-site computation (filtration? coupling?), and send motor related flow to PPC (ask Matt...)
-    
-
-PPC-pM2 circuit mapping, i.e., **V1-PPC-pM2-V1** *ipsilateral*
-
-[visual cortex gives **biggest** input chunk (>20%) to both PPC-STR & PPC-pM2
-
-➡️  PPC-pM2 neurons receive more sensorimotor inputs, PPC-STR neurons receives more association inputs.] Hwang 2019
-
-➡️  sensorimotor cortical circuit mapping, / sensorimotor predictive coding mapping:
-
-- ACC is bidirectionally connected with pM2
-
-- ACC gives predictive signals to V1
-
-- also primary visual input (from eyes) goes to V1, V1 does "basic (?)" computation,
-
-- sends "processed" motor-info-coupled visual info to PPC
-
-- M2 sends a predictive flow to V1
-
-- thus completes the update subnetwork
-
-[the input from ACC to V1 has a role in attentional modulation of visual responses (Zhang et al., 2014) and experience-dependent spatial predictions (Fiser et al., 2016).] Leinweber 2017
-
-
-
-
 ### Research Plan
 
-aim 1: novel behavioural paradigm development
+The objectives of this project can be translated into three milestone aims:
 
-aim 2: in naive mice, map physiological information V1-PPC, & M2-V1
+Aim 1: novel viusally-guided reaching behavioural paradigm development
 
-aim 3: dissect physiological & temporally role of each node by axonal terminal inhibitory opto
+Aim 2: physiological connectivity mapping among each node [V1-PPC, & M2-V1]
+
+Aim 3: computational model establishment of the V1-PPC-M2-V1 visuomotor subnetwork
+
+#### Aim 1 (Year 1): Behavioural Paradigm Development
+
+Water-restricted (1mL per day, 1.5mL per day if body weight drops under 85%) C57BL/6J mice will be trained to perform visually-guided reaching behaviour with their forelimbs under head-fixed condition in the dark. Three target spouts (left, middle, right) with embedded LED light and water droplets delivery tube are placed 2mm (2mm apart from each other) in front of the mouse at the eye level; a water droplet as the reward will be delivered if the mouse touches the illuminating spout. A two-phase training programme will be implemented:
+
+- Phase one (light-water association, Fig.1a): the position of the target spout is constant in each session but randomised across sessions, i.e., the illumination only has one possible source during one session. The training moves on to the next phase when hit rate reaches 75%.
+
+- Phase two (pattern learning, Fig.1b): the target spout jumps in an orderly way, from left to middle to right on a trial-to-trial basis; one full pattern of three trials forms a trial set. The inter-trial-interval (ITI) reduces if the mouse successfully finishes two consecutive sets. The mouse is considered to be at the expert level if it successfully finishes five consecutive sets. The *in vivo* npx recording will be performed on the expert during behaviour.
+
+The amount of water reward received during training is cut into daily 1mL water intake. The reaching behaviour will be tracked by two high-frame-rate cameras.
+
+#### Aim 2 (Year 2): Physiological Connectivity Mapping
+
+As my current project is PPC-M2 physiological connectivity mapping with npx under visually-guided reaching, Aim 2 of this future project will only work on V1-PPC and M2-V1.
+
+Npx probe has a 10*0.07*0.02mm shank with 960 silicone electrodes that can perform high temporal resolution extra-cellular recordings from a huge number of neurons [30]. One limitation of npx is that the position of the neuron that produces the action potentials (AP) is only putative. To increase it spatial resolution, mice will be split into two groups, and channelrhodopsin2 will be expressed into V1-PPC (Group A) and M2-V1 (Group B) neurons respectively. During the npx recording, electrical signals produced by shining blue light to axons in PPC (Group A) or V1 (Group B) will back-propagates into the soma (in V1 or M2), which will cancel out the AP signal and the corresponding npx channels (in V1 or M2) will loss AP signals; npx channels will re-register AP signals from the soma one the light goes off. Thus, the "coincidence detector" can dissect projection-specific AP signals during post-recording analysis (Fig. 2a).
+
+The physiological role of each subnetwork node can be identified by inhibitory optogenetics. Concurrently with the "coincidence detector", Group A will have halorhodopsin expressed in V1-PPC neurons, and Group B in M2-V1. During npx recording, by shining yellow light to projection terminals (in PPC or V1), downstream node will fail to receive information sent by the upstream node, and thus the projections will be silent, the role of each projection can be teased out physiologically and temporally (Fig. 2b).
+
+This project will perform triple-probe (ipsilateral V1, PPC, M2) [20,26] npx recordings on both naive (untrained) and expert mice, and both will be exposed to the same illuminating pattern. Each recording session has the same length as the training session. The excitatory manipulations will occur in the first and final 2 mins of the recording to eliminate possible shank drift caused by movement; inhibitory manipulations for V1-PPC will occur together with visual stimulus to block visual information transmission, and for M2-V1 will occur during the ITI to block the predictive visual flow. To further quantify the predictive visual flow the M2 sends to V1, mismatch will be introduced to expert mice in the form of reversed illuminating pattern (right, middle, left). M2-V1 neurons under mismatch condition are expected to have increased firing rate. I expect that comparing to naive mice, nodes in the subnetwork of the expert mice are closely-coupled temporally, and their responses become target-position- and reaching-direction-specific. 
+
+
+#### Aim 3 (Year 3): Computational Model Establishment 
+
+The physiological and behavioural data acquired from the experiments will be create a computational model of this visuomotor subnetwork. Neuronal type will be identified from the npx data based on their firing rate, and the computational model will reproduce the information flow and their responses among each nodes. Furthermore, by aligning with the behavioural data, the subnetwork model will re-create the directional-specific visually-guided reaching behaviour.
+
+
+
+
+Together, npx recordings will be performed on four groups (eight conditions) in total.
+
+
+Group 1: naive mice
+
+Group 2: expert mice
+
+Group 2.1: V1-PPC
+**can they be on the same mouse??**
+Group 2.2: M2-V1
+
+
+dissect physiological & temporally role of each node by axonal terminal inhibitory opto
 
 
 - behaviour paradigm
@@ -189,6 +193,45 @@ current project working on circuit mapping PPC-pM2:
     - **CAUTION! do NOT plan too much! EVERYTHING takes a lot of time!! V1-PPC-M2/ACC needs two postdoc (2-year)**
 
 - contingency plan
+
+
+
+- why this is important
+
+- **hypotheses???**: V1 plays a vital role (is essential) in sensorimotor cortical circuit during visually-guided behaviour
+
+1. V1 performs low-level visual processing and provides PPC with basic motor-related visual information for further visuomotor integration
+    
+    - exp: V1-PPC axonal terminal inactivation
+    
+2. M2 provides predictive motor-related visual flow to V1 that is essential for visuomotor learning
+
+3. V1-PPC-M2-V1 subnetwork becomes increasingly coordinated across learning of a visuomotor task
+
+    - i should hypothesise about the property/characteristics of the physiological info, e.g., pM2 sends predictive flow (corollary discharge) to V1, and V1 performs on-site computation (filtration? coupling?), and send motor related flow to PPC (ask Matt...)
+    
+
+PPC-pM2 circuit mapping, i.e., **V1-PPC-pM2-V1** *ipsilateral*
+
+[visual cortex gives **biggest** input chunk (>20%) to both PPC-STR & PPC-pM2
+
+➡️  PPC-pM2 neurons receive more sensorimotor inputs, PPC-STR neurons receives more association inputs.] Hwang 2019
+
+➡️  sensorimotor cortical circuit mapping, / sensorimotor predictive coding mapping:
+
+- ACC is bidirectionally connected with pM2
+
+- ACC gives predictive signals to V1
+
+- also primary visual input (from eyes) goes to V1, V1 does "basic (?)" computation,
+
+- sends "processed" motor-info-coupled visual info to PPC
+
+- M2 sends a predictive flow to V1
+
+- thus completes the update subnetwork
+
+[the input from ACC to V1 has a role in attentional modulation of visual responses (Zhang et al., 2014) and experience-dependent spatial predictions (Fiser et al., 2016).] Leinweber 2017
 
 
 
